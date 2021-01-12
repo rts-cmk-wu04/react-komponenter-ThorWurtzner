@@ -1,0 +1,26 @@
+[
+    {
+        "icon": "./Colorbox/truck.png",
+        "title": "ON-TIME DELIVERY",
+        "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam aliquam diam sit ",
+        "color": "#005AEE"
+    },
+    {
+        "icon": "./Colorbox/parcels.png",
+        "title": "PARCELS",
+        "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam aliquam diam sit ",
+        "color": "#FFA767"
+    },
+    {
+        "icon": "./Colorbox/checkboard.png",
+        "title": "QUALITY CHECK",
+        "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam aliquam diam sit ",
+        "color": "#0AACDC"
+    },
+    {
+        "icon": "./Colorbox/phone.png",
+        "title": "CUSTOMER SERVICE",
+        "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam aliquam diam sit ",
+        "color": "#597AEF"
+    }
+]
