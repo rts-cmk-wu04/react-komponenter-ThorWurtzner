@@ -10,3 +10,7 @@
 .collectionContainer {
   display: flex;
 }
+
+.newsContainer {
+  display: flex;
+}

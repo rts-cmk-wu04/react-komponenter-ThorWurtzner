@@ -4,6 +4,8 @@ import Colorbox from './components/Colorbox/Colorbox.js';
 import Travel from './components/Travel/Travel';
 import Outdoor from './components/Outdoor/Outdoor';
 import Collection from "./components/Collection/Collection";
+import News from './components/News/News';
+import SmallNews from './components/SmallNews/SmallNews';
 
 function App() {
   var [colorboxContent, setColorboxContent] = useState([]);
@@ -27,6 +29,19 @@ function App() {
     })
   }, [])
 
+  var [newsContent, setNewsContent] = useState([]);
+
+    useEffect(function() {
+        fetch("./News/news.json")
+          .then(function(response) {
+            return response.json();
+          })
+          .then(function(data) {
+            setNewsContent(data);
+          })
+      }, [])
+
+     
 
   return (
     <>
@@ -54,6 +69,11 @@ function App() {
                        author={content.author} 
            />
         )}
+      </div>
+
+      <div className="newsContainer">
+        <SmallNews />
+        <News />
       </div>
     </>
   );
