@@ -1,0 +1,35 @@
+
+.news {
+    background-color: #fff;
+    border-radius: 10px;
+    width: 370px;
+    margin: 10px;
+}
+
+.news header {
+    background-color: #3F51B5;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 60px;
+    border-radius: 10px 10px 0 0;
+}
+
+.news header h1 {
+    color: #fff;
+    font-size: 18px;
+    letter-spacing: 2px;
+}
+
+.news footer {
+    height: 70px;
+    border-top: 1px solid #dfdfe2a4;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.news footer h2 {
+    font-size: 17px;
+    color: #7B8591;
+}

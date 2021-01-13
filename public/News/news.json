@@ -1,0 +1,32 @@
+[
+    {
+        "image": "./News/image1.png",
+        "title": "NATURE",
+        "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam",
+        "color": "#40BE65"
+    },
+    {
+        "image": "./News/image2.png",
+        "title": "ANIMAL KINGDOM",
+        "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam",
+        "color": "#0072CA"
+    },
+    {
+        "image": "./News/image3.png",
+        "title": "TECHNOLOGY",
+        "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam",
+        "color": "#D9A34A"
+    },
+    {
+        "image": "./News/image4.png",
+        "title": "EXPLORE",
+        "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam",
+        "color": "#FF4967"
+    },
+    {
+        "image": "./News/image5.png",
+        "title": "AFRICA ZOO",
+        "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam",
+        "color": "#0072CA"
+    }
+]
