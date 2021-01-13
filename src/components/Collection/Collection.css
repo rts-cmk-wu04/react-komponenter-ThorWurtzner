@@ -1,0 +1,44 @@
+
+.collection {
+    width: 367px;
+    height: 370px;
+    position: relative;
+    margin: 10px;
+    background-color: #fff;
+    border-radius: 10px;
+}
+
+.collection .image {
+    width: 100%;
+}
+
+.collection h2 {
+    position: absolute;
+    top: 20px;
+    left: 30px;
+    color: #fff;
+    font-size: 18px;
+}
+
+.collection section {
+    position: relative;
+    height: 150px;
+
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.collection section img {
+    position: absolute;
+    top: -30px;
+    left: 30px;
+}
+
+.collection section p {
+    color: #7B8591;
+    font-size: 15px;
+    margin-top: 3px;
+}
+
