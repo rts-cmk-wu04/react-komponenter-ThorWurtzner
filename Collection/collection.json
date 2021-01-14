@@ -1,0 +1,23 @@
+[
+    {
+        "collection": "COLLECTION #10",
+        "image": "./Collection/image1.png",
+        "icon": "./Collection/portrait1.png",
+        "title": "Off-the-grid experiences",
+        "author": "By: Melanie S."
+    },
+    {
+        "collection": "COLLECTION #1",
+        "image": "./Collection/image2.png",
+        "icon": "./Collection/portrait2.png",
+        "title": "Shapes, triangles & fashion",
+        "author": "By: Saraha F."
+    },
+    {
+        "collection": "COLLECTION #123",
+        "image": "./Collection/image3.png",
+        "icon": "./Collection/portrait3.png",
+        "title": "In-depth architecture",
+        "author": "By: Benhour"
+    }
+]
