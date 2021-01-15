@@ -1,0 +1,13 @@
+
+[
+    {
+        "icon": "./ColorboxSmall/icon1.png",
+        "title": "DESIGN",
+        "color": "#53BBB3"
+    },
+    {
+        "icon": "./ColorboxSmall/icon2.png",
+        "title": "EDUCATION",
+        "color": "#358ED7"
+    }
+]
