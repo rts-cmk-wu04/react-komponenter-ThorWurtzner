@@ -1,0 +1,16 @@
+
+.colorboxSmall {
+    width: 175px;
+    height: 175px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 10px;
+    margin: 10px;
+}
+
+.colorboxSmall h1 {
+    font-size: 18px;
+    color: #fff;
+    margin-top: 20px;
+}
