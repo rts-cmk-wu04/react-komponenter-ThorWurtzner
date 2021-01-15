@@ -1,0 +1,14 @@
+[
+    {
+        "image": "./NewsCards/image1.png",
+        "title": "ARCHITECTURE",
+        "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam aliquam diam sit amet elit hendrerit rutrum. Nam egestas",
+        "color": "#FFD430"
+    },
+    {
+        "image": "./NewsCards/image2.png",
+        "title": "TRAVEL & LEISURE",
+        "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam aliquam diam sit amet elit hendrerit rutrum. Nam egestas",
+        "color": "#D0E2FF"
+    }
+]

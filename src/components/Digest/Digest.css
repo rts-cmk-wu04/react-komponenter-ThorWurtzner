@@ -1,0 +1,35 @@
+
+.digest {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    width: 280px;
+    padding-bottom: 25px;
+}
+
+.digest div {
+    border-radius: 50%;
+    width: 40px;
+    height: 40px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.digest div p {
+    color: #fff;
+    font-weight: bold;
+    font-size: 18px;
+}
+
+.digest h2 {
+    font-size: 17px;
+    font-weight: normal;
+    margin: 10px 0;
+}
+
+.digest p {
+    color: #7B8591;
+}

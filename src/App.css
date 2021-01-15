@@ -14,3 +14,49 @@
 .newsContainer {
   display: flex;
 }
+
+.newsContainerCards {
+  display: flex;
+}
+
+.bottom {
+  display: flex;
+  /* justify-content: space-between; */
+}
+
+.bottom div {
+  display: flex;
+  flex-direction: column;
+}
+
+.smallCardContainer {
+  display: flex;
+}
+
+.newsDigest {
+  width: 360px;
+  margin: 10px;
+  background-color: #fff;
+  border-radius: 10px;
+}
+
+.newsDigest section {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: space-evenly;
+  height: 100%;
+  padding-top: 30px;
+}
+
+.newsDigest header {
+  background-color: #3CA773;
+  border-radius: 10px 10px 0 0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 50px;
+  color: #fff;
+  font-size: 12px;
+  font-weight: normal;
+}
