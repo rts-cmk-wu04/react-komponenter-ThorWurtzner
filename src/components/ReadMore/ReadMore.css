@@ -1,0 +1,38 @@
+
+.readMore {
+    width: 370px;
+    height: 461px;
+    background-color: #fff;
+    margin: 10px;
+    border-radius: 10px;
+    padding: 50px;
+
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+.readMore div {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+
+.readMore div img {
+    width: 40px;
+    margin-right: 10px;
+}
+
+.readMore div h2 {
+    font-size: 14px;
+}
+
+.readMore button {
+    width: 140px;
+    height: 50px;
+    border-radius: 50px;
+    background-color: #fff;
+    font-size: 14px;
+    font-weight: bolder;
+}
+

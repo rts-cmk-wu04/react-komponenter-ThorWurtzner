@@ -1,0 +1,29 @@
+[
+    {
+        "color": "#D9A34A",
+        "number": "1",
+        "title": "Technology",
+        "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam aliquam diam sit amet elit hendrerit",
+        "border": "1px solid rgba(206, 206, 206, 0.719)"
+    },
+    {
+        "color": "#007AC2",
+        "number": "2",
+        "title": "Nature",
+        "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam aliquam diam sit amet elit hendrerit",
+        "border": "1px solid rgba(206, 206, 206, 0.719)"
+    },
+    {
+        "color": "#3CA773",
+        "number": "3",
+        "title": "Design",
+        "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam aliquam diam sit amet elit hendrerit",
+        "border": "1px solid rgba(206, 206, 206, 0.719)"
+    },
+    {
+        "color": "#53BBB3",
+        "number": "4",
+        "title": "Development",
+        "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam aliquam diam sit amet elit hendrerit"
+    }
+]

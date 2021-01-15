@@ -1,0 +1,15 @@
+
+[
+    {
+        "image": "./SmallNews/image1.png",
+        "title": "FOOD & LIFESTYLE",
+        "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam",
+        "color": "#E44385"
+    },
+    {
+        "image": "./SmallNews/image2.png",
+        "title": "FASHION",
+        "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam",
+        "color": "#0AACDC"
+    }
+]
