@@ -1,0 +1,14 @@
+[
+    {
+        "image": "./NewsCardsBottom/image1.png",
+        "title": "GREENERY",
+        "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam aliquam diam sit amet elit hendrerit rutrum. Nam egestas",
+        "color": "#fff"
+    },
+    {
+        "image": "./NewsCardsBottom/image2.png",
+        "title": "BEACHES",
+        "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam aliquam diam sit amet elit hendrerit rutrum. Nam egestas",
+        "color": "#fff"
+    }
+]
